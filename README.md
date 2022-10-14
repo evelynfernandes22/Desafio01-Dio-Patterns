@@ -13,4 +13,6 @@
 
   * Spring Api
 
-  * Documentação com OpenApi Swagger
+  * Client http OpenApi
+  
+  * Documentação com Swagger
