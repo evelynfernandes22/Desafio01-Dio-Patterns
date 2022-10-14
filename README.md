@@ -13,6 +13,6 @@
 
   * Spring Api
 
-  * Client http OpenApi
+  * Client http OpenFeign
   
-  * Documentação com Swagger
+  * Documentação com OpenApi Swagger
